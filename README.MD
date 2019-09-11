@@ -5,7 +5,8 @@
 - table
 1. table1
 2. table2
-********
+*******
+*******
 name | sex | age
 -|-|-
 Ella | female | 26
